@@ -90,9 +90,7 @@ Se estiver no Windows, use um dos seguintes métodos para executar o script:
   - Servidor remoto com Linux (ex: Amazon EC2 com Amazon Linux)
 
 
-##
-
-Feito com 💻 para fins educacionais.
-
+## 📄 Licença
+Desenvolvido durante o Bootcamp Santander - Linux para Iniciantes na DIO para fins educacionais.
 
    
